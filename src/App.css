@@ -1,0 +1,7 @@
+#root .os-theme-dark> .os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle {
+  width: 2px;
+  right: 0;
+  background: rgba(240, 140, 33, 0.25);
+  border-radius: 0;
+}
+
